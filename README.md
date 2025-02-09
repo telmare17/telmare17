@@ -1,9 +1,5 @@
-<div align="center">
+
 ![totoro (1)](https://github.com/user-attachments/assets/c80f2654-aecb-4434-a118-d8226867443f)
-
-
-</div>  
-  
 
 ### <div align="center">Saudações! Eu sou Telma, Desenvolvedora Full-Stack👨‍💻 trabalhando para Mais Web 🚀</div>  
   
