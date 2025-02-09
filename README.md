@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+![image](https://github.com/user-attachments/assets/bd21bbc2-cf4b-4542-88c5-0b28ace7bf7f)
 </div>  
   
 
@@ -59,7 +59,7 @@
 
 
 
-### DevOps  
+### Cloud Computing  
 <div align="center">  
 <a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" /></a>  
 </div>
