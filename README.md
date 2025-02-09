@@ -2,10 +2,10 @@
   <img src="https://github.com/user-attachments/assets/c80f2654-aecb-4434-a118-d8226867443f" alt="Totoro GIF">
 </div>
 
-### <div align="center">Saudações! Eu sou Telma, Desenvolvedora Full-Stack👨‍💻 trabalhando para Mais Web 🚀</div>  
+### <div align="center">Saudações! Eu sou Telma, Desenvolvedora Full-Stack 👨‍💻 atualmente trabalhando para Mais Web 🚀</div>  
   
 
-- 🔭 Atualmente trabalhando em [App Basic Name Gathering](https://github.com/telmare17/BasicNameGathering_Framework_PHP)  
+- 🔭 Trabalhando em [App Basic Name Gathering](https://github.com/telmare17/BasicNameGathering_Framework_PHP)  
   
 
 - 🌱 Aprendendo estruturas MVC em PHP e pretendo iniciar os estudos em Java  
