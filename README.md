@@ -1,5 +1,6 @@
 <div align="center">
-![image](https://github.com/user-attachments/assets/bd21bbc2-cf4b-4542-88c5-0b28ace7bf7f)
+![totoro](https://github.com/user-attachments/assets/0532b4dc-f253-4cbd-a73f-2563d9d2ea7d)
+
 </div>  
   
 
