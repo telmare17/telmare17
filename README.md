@@ -56,7 +56,7 @@
 
 
 
-### Cloud Computing  
+### Cloud  
 <div align="center">  
 <a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" /></a>  
 </div>
