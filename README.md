@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/c80f2654-aecb-4434-a118-d8226867443f" alt="Totoro GIF">
 </div>
 
-### <div align="center">Saudações! Eu sou Telma, Desenvolvedora Full-Stack 👨‍💻 atualmente trabalhando para Mais Web 🚀</div>  
+### <div align="center">Saudações! Eu sou Telma, Desenvolvedora Full-Stack 👨‍💻 atualmente trabalhando para Maiswebs 🚀</div>  
   
 
 - 🔭 Trabalhando em [Homepage - Cliente Sauloplac](https://github.com/telmare17/sauloplac-projeto-homepage.git)  
