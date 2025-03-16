@@ -41,7 +41,7 @@
 
 ## Vamos Conectar!
 
-[![Instagram](https://img.shields.io/badge/-{Nome}-purple?style=flat-square&logo=Instagram&logoColor=white&link=[{Link}](https://www.instagram.com/telma.rsj/))]([{Link})](https://www.instagram.com/telma.rsj/)
+[![Instagram](https://img.shields.io/badge/-telma.rsj-purple?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/telma.rsj/)
 [![Facebook](https://img.shields.io/badge/-{Nome}-blue?style=flat-square&logo=Facebook&logoColor=white&link={Link})]({Link})
 [![Twitter Follow](https://img.shields.io/twitter/follow/SeuUsuario?style=social)]({Link})
 
