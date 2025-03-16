@@ -42,8 +42,8 @@
 ## Vamos Conectar!
 
 [![Instagram](https://img.shields.io/badge/-telma.rsj-purple?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/telma.rsj/)
-[![Facebook](https://img.shields.io/badge/-{Nome}-blue?style=flat-square&logo=Facebook&logoColor=white&link={Link})]({Link})
-[![Twitter Follow](https://img.shields.io/twitter/follow/SeuUsuario?style=social)]({Link})
+[![Gmail](https://img.shields.io/badge/-telmasreis0@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:telmasreis0@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Telma%20S.%20Reis-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/telmasreis/)
 
 ![telmare17's Stats](https://github-readme-stats.vercel.app/api?username=telmare17&theme=radical&show_icons=true&hide_border=false&count_private=true)
 ![telmare17's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=telmare17&theme=radical&show_icons=true&hide_border=false&layout=compact)
