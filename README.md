@@ -36,9 +36,9 @@
 
 🎨 Aqui estão alguns dos meus projetos mais criativos e inovadores:
 
-1. [Projeto 1](https://github.com/[seu-usuario]/projeto1): Uma descrição emocionante do projeto e como ele mudou o mundo.
-2. [Projeto 2](https://github.com/[seu-usuario]/projeto2): Uma aventura fascinante com código e arte.
-3. [Projeto 3](https://github.com/[seu-usuario]/projeto3): Uma experiência interativa que desafia as leis da física.
+1. [Basic Name Gathering](https://github.com/telmare17/BasicNameGathering_Framework_PHP): um sistema em PHP baseado no padrão MVC, com áreas de administrador e usuário. Permite a gestão de nomes através de CRUD, autenticação e controle de acessos, garantindo organização e segurança dos dados.
+2. [Formulário Para Envio De E-mails](https://github.com/telmare17/PHP_Form_Email): Este projeto é um formulário de envio de e-mail utilizando PHP, HTML e CSS. O formulário coleta informações como o e-mail do destinatário, título e corpo da mensagem, e as envia utilizando a biblioteca PHPMailer.
+3. [Clone Spotify](https://github.com/telmare17/JS_HomeSpotify): Este projeto recria a interface do Spotify utilizando HTML, CSS e JavaScript. A aplicação oferece uma experiência de usuário interativa com playlists, navegação e busca, além de ser responsiva e visualmente atraente. Foi criada uma API fake utilizando JSON e Node.js para simular dados de playlists e artistas, proporcionando uma experiência mais dinâmica e interativa.
 
 ## Vamos Criar Algo Incrível! 💫
 
