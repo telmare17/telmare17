@@ -6,7 +6,7 @@
 
 ## Sobre mim
 
-✨ Sou uma desenvolvedora apaixonada por desafios criativos e soluções inovadoras. Meu objetivo é levar a programação a um novo patamar, misturando arte e código para criar experiências únicas. ✨
+Sou uma desenvolvedora apaixonada por desafios criativos e soluções inovadoras. Meu objetivo é levar a programação a um novo patamar, misturando arte e código para criar experiências únicas.
 
 ## Habilidades Tecnológicas
 
