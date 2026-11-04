@@ -1,56 +1,86 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/c80f2654-aecb-4434-a118-d8226867443f" alt="Totoro GIF">
+
+# Oi, eu sou a Telma Reis 👋
+
+### QA Analyst | Automação de Testes | Full-Stack Developer
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-telmasreis-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/telmasreis)
+[![Email](https://img.shields.io/badge/Email-telmasreis0@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:telmasreis0@gmail.com)
+![ISTQB](https://img.shields.io/badge/ISTQB®-CTFL_4.0-00A859?style=for-the-badge)
+
 </div>
 
-# 🚀 Olá, eu sou Telma Reis - Software Developer 
+---
 
-## Sobre mim
+## 🚀 Sobre mim
 
-Sou uma desenvolvedora apaixonada por desafios criativos e soluções inovadoras. Meu objetivo é levar a programação a um novo patamar, misturando arte e código para criar experiências únicas.
+Garanto a qualidade de software **do requisito à entrega**, combinando automação mobile e API com testes manuais e E2E. Comecei como desenvolvedora Full-Stack, e essa base me ajuda a entender **onde os defeitos nascem** e a escrever automação mais estável.
 
-## Habilidades Tecnológicas
+Hoje sou **Analista de QA na Sysmap Solutions** 📍 São Luís, MA.
 
-💻 Aqui estão algumas das tecnologias que eu domino:
+- 🤖 **200+** cenários automatizados em Android e iOS
+- 🎯 **~90%** de cobertura funcional das regras de negócio
+- 📉 **~75%** menos falhas em produção
 
-- Linguagens de Programação:  
+---
 
-    [![My Skills](https://skillicons.dev/icons?i=php,javascript,nodejs)](https://skillicons.dev)
+## 🧰 Stack
 
-- Frameworks e Bibliotecas:  
+**Automação & QA:**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-662D91?style=flat-square&logo=appium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
-    [![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind)](https://skillicons.dev)
+**Desenvolvimento Web:**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-- Dados:  
+---
 
-    [![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
+## 💡 Automação + Dev Web
 
-- Ferramentas e Tecnologias:  
+Quem desenvolve escreve testes melhores, e quem testa desenvolve melhor. O resultado é automação mais estável e fácil de manter.
 
-    [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio)](https://skillicons.dev)
+```java
+// Page Object Model com Appium + Java
+public class LoginPage {
+    @AndroidFindBy(accessibility = "btn_login")
+    @iOSXCUITFindBy(accessibility = "btn_login")
+    private WebElement loginButton;
 
-- Desenvolvimento Web:  
+    public HomePage login() {
+        loginButton.click();
+        return new HomePage(driver);
+    }
+}
+```
 
-    [![My Skills](https://skillicons.dev/icons?i=php,html,css)](https://skillicons.dev)
+---
 
-## Projetos Criativos
+## 💼 Experiência
 
-🎨 Aqui estão alguns dos meus projetos mais criativos e inovadores:
+- **QA Analyst | Sysmap Solutions** *(2025 – atual)*: automação mobile (Appium, Java, Selenium), testes de API, E2E e integração em projetos de Telecom (Claro) e Wellness
+- **Desenvolvedora Full-Stack | Maiswebs** *(2024 – 2025)*: PHP, JavaScript, MySQL, Git e APIs REST
+- **Desenvolvedora | Inova Maranhão** *(2024)*: HTML, CSS, JavaScript, Node.js e TypeScript
 
-1. [Basic Name Gathering](https://github.com/telmare17/BasicNameGathering_Framework_PHP): um sistema em PHP baseado no padrão MVC, com áreas de administrador e usuário. Permite a gestão de nomes através de CRUD, autenticação e controle de acessos, garantindo organização e segurança dos dados.
- 
-2. [Formulário Para Envio De E-mails](https://github.com/telmare17/PHP_Form_Email): Este projeto é um formulário de envio de e-mail utilizando PHP, HTML e CSS. O formulário coleta informações como o e-mail do destinatário, título e corpo da mensagem, e as envia utilizando a biblioteca PHPMailer.
- 
-3. [Clone Spotify](https://github.com/telmare17/JS_HomeSpotify): Este projeto recria a interface do Spotify utilizando HTML, CSS e JavaScript. A aplicação oferece uma experiência de usuário interativa com playlists, navegação e busca, além de ser responsiva e visualmente atraente. Foi criada uma API fake utilizando JSON e Node.js para simular dados de playlists e artistas, proporcionando uma experiência mais dinâmica e interativa.
+## 🎓 Formação
 
-## Vamos Criar Algo Incrível! 💫
+- Bacharelado em Engenharia de Software, UNDB *(2024 – 2028)*
+- ISTQB® CTFL 4.0 · NLW Connect Fullstack · Masterclass Agentes de IA
 
-💬 Quer colaborar em um projeto criativo e inovador? Estou sempre aberto a novas ideias e parcerias. Entre em contato comigo para discutirmos como podemos criar algo verdadeiramente extraordinário juntos. ✉️
+---
 
-## Vamos Conectar!
+<div align="center">
 
-[![Instagram](https://img.shields.io/badge/-telma.rsj-purple?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/telma.rsj/)
-[![Gmail](https://img.shields.io/badge/-telmasreis0@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:telmasreis0@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-Telma%20S.%20Reis-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/telmasreis/)
+📫 **Vamos conversar?** [LinkedIn](https://www.linkedin.com/in/telmasreis) · telmasreis0@gmail.com
 
-![telmare17's Stats](https://github-readme-stats.vercel.app/api?username=telmare17&theme=radical&show_icons=true&hide_border=false&count_private=true)
-![telmare17's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=telmare17&theme=radical&show_icons=true&hide_border=false&layout=compact)
+</div>
