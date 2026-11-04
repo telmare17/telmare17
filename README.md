@@ -16,7 +16,7 @@
 
 Garanto a qualidade de software **do requisito à entrega**, combinando automação mobile e API com testes manuais e E2E. Comecei como desenvolvedora Full-Stack, e essa base me ajuda a entender **onde os defeitos nascem** e a escrever automação mais estável.
 
-Hoje sou **Analista de QA na Sysmap Solutions** 📍 São Luís, MA.
+Hoje sou **Analista de QA na Sysmap Solutions**
 
 - 🤖 **200+** cenários automatizados em Android e iOS
 - 🎯 **~90%** de cobertura funcional das regras de negócio
